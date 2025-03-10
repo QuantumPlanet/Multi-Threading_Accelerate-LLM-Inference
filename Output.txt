@@ -1,0 +1,101 @@
+thread number: 0
+[INFO] SEQ_LEN: 266, Speed: 23.3170 tok/s
+main thread - user: 11.4306 s, system: 0.1699 s
+
+thread number: 1
+length: 266, speed (tok/s): 21.7090
+Thread 0 has completed - user: 10.283489 s, system: 0.647212 s
+Main Thread - user: 0.337397 s, system: 0.607316 s
+Whole Process - user: 10.512383 s, system: 1.363277 s
+
+thread number: 2
+length: 266, speed (tok/s): 30.8049
+Thread 0 has completed - user: 5.576556 s, system: 0.651805 s
+Thread 1 has completed - user: 5.933946 s, system: 0.415688 s
+Main Thread - user: 0.310417 s, system: 1.150369 s
+Whole Process - user: 11.697586 s, system: 2.341562 s
+
+thread number: 4
+length: 266, speed (tok/s): 41.3043
+Thread 1 has completed - user: 2.848350 s, system: 0.242412 s
+Thread 0 has completed - user: 2.876339 s, system: 0.440898 s
+Thread 2 has completed - user: 2.922270 s, system: 0.554736 s
+Thread 3 has completed - user: 3.012484 s, system: 0.298265 s
+Main Thread - user: 0.381120 s, system: 2.029207 s
+Whole Process - user: 12.069727 s, system: 3.536805 s
+
+thread number: 6
+length: 266, speed (tok/s): 38.9572
+Thread 1 has completed - user: 1.985963 s, system: 0.099797 s
+Thread 3 has completed - user: 2.086390 s, system: 0.273970 s
+Thread 4 has completed - user: 2.124199 s, system: 0.283226 s
+Thread 5 has completed - user: 2.265423 s, system: 0.382888 s
+Thread 0 has completed - user: 1.999570 s, system: 0.265345 s
+Thread 2 has completed - user: 2.009687 s, system: 0.202032 s
+Main Thread - user: 0.443308 s, system: 2.911728 s
+Whole Process - user: 12.888067 s, system: 4.445567 s
+
+thread number: 8
+length: 266, speed (tok/s): 36.2398
+Thread 3 has completed - user: 1.512999 s, system: 0.209113 s
+Thread 4 has completed - user: 1.547704 s, system: 0.252218 s
+Thread 5 has completed - user: 1.555129 s, system: 0.485977 s
+Thread 7 has completed - user: 1.743114 s, system: 0.285595 s
+Thread 1 has completed - user: 1.569267 s, system: 0.042993 s
+Thread 6 has completed - user: 1.621557 s, system: 0.320044 s
+Thread 0 has completed - user: 1.531736 s, system: 0.097081 s
+Thread 2 has completed - user: 1.481546 s, system: 0.168357 s
+Main Thread - user: 0.399314 s, system: 3.808850 s
+Whole Process - user: 12.794686 s, system: 5.838247 s
+
+thread number: 10
+length: 266, speed (tok/s): 32.1256
+Thread 0 has completed - user: 1.151065 s, system: 0.060055 s
+Thread 3 has completed - user: 1.212416 s, system: 0.053646 s
+Thread 5 has completed - user: 1.223564 s, system: 0.244712 s
+Thread 7 has completed - user: 1.368527 s, system: 0.207638 s
+Thread 1 has completed - user: 1.126348 s, system: 0.080453 s
+Thread 6 has completed - user: 1.263747 s, system: 0.198588 s
+Thread 4 has completed - user: 1.197246 s, system: 0.210626 s
+Thread 8 has completed - user: 1.375182 s, system: 0.252406 s
+Thread 9 has completed - user: 1.850924 s, system: 0.221725 s
+Thread 2 has completed - user: 1.178471 s, system: 0.081273 s
+Main Thread - user: 0.504912 s, system: 4.533697 s
+Whole Process - user: 13.667464 s, system: 5.929852 s
+
+thread number: 12
+length: 266, speed (tok/s): 30.6240
+Thread 0 has completed - user: 0.924509 s, system: 0.112995 s
+Thread 6 has completed - user: 1.000320 s, system: 0.126356 s
+Thread 5 has completed - user: 0.929956 s, system: 0.173728 s
+Thread 4 has completed - user: 1.051490 s, system: 0.136693 s
+Thread 8 has completed - user: 1.069740 s, system: 0.264787 s
+Thread 3 has completed - user: 0.994626 s, system: 0.069392 s
+Thread 1 has completed - user: 0.984295 s, system: 0.065619 s
+Thread 7 has completed - user: 1.048497 s, system: 0.196593 s
+Thread 9 has completed - user: 1.088791 s, system: 0.168369 s
+Thread 2 has completed - user: 0.987018 s, system: 0.076661 s
+Thread 11 has completed - user: 1.521191 s, system: 0.248560 s
+Thread 10 has completed - user: 1.119120 s, system: 0.358118 s
+Main Thread - user: 0.359366 s, system: 5.606113 s
+Whole Process - user: 13.029757 s, system: 7.653552 s
+
+length: 266, speed (tok/s): 26.0376
+Thread 0 has completed - user: 0.772951 s, system: 0.055210 s
+Thread 2 has completed - user: 0.792658 s, system: 0.091460 s
+Thread 3 has completed - user: 0.777138 s, system: 0.063874 s
+Thread 10 has completed - user: 0.874142 s, system: 0.109267 s
+Thread 12 has completed - user: 0.780577 s, system: 0.126580 s
+Thread 13 has completed - user: 0.891980 s, system: 0.237861 s
+Thread 14 has completed - user: 0.824266 s, system: 0.274755 s
+Thread 6 has completed - user: 0.774239 s, system: 0.134201 s
+Thread 4 has completed - user: 0.754498 s, system: 0.095809 s
+Thread 5 has completed - user: 0.776386 s, system: 0.112701 s
+Thread 7 has completed - user: 0.921875 s, system: 0.048014 s
+Thread 11 has completed - user: 0.802383 s, system: 0.153881 s
+Thread 1 has completed - user: 0.744459 s, system: 0.067678 s
+Thread 8 has completed - user: 0.856499 s, system: 0.083787 s
+Thread 15 has completed - user: 1.254948 s, system: 0.377595 s
+Thread 9 has completed - user: 0.882403 s, system: 0.065363 s
+Main Thread - user: 0.446160 s, system: 7.247628 s
+Whole Process - user: 13.630102 s, system: 9.643349 s
